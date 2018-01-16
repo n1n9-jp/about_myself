@@ -19,3 +19,4 @@
 ## サイト
 - [合同会社ノーテーション](http://notation.co.jp/) 
 - [Yahoo!ニュース個人](https://news.yahoo.co.jp/byline/yazakiyuichi/) 
+- [RESASの教科書](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00254300B) 
