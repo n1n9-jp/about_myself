@@ -2,8 +2,6 @@
 
 # 矢崎 裕一
 
-![イメージ画像](profile_yuichiyazaki.jpg)
-
 
 ## プロフィール
 
